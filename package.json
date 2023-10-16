@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "yarn spago build"
+  },
+  "dependencies": {
+    "purescript": "0.15.0",
+    "spago": "^0.21.0"
+  }
+}
